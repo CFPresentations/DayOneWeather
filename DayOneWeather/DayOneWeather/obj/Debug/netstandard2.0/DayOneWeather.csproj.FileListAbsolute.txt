@@ -1,0 +1,12 @@
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\bin\Debug\netstandard2.0\DayOneWeather.deps.json
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\bin\Debug\netstandard2.0\DayOneWeather.dll
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\bin\Debug\netstandard2.0\DayOneWeather.pdb
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.csprojResolveAssemblyReference.cache
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.csproj.CoreCompileInputs.cache
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.App.xaml.g.cs
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.MainPage.xaml.g.cs
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.WeatherPage.xaml.g.cs
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.AssemblyInfoInputs.cache
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.AssemblyInfo.cs
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.dll
+C:\Temp\Projects\DayOneWeather\DayOneWeather\DayOneWeather\obj\Debug\netstandard2.0\DayOneWeather.pdb
