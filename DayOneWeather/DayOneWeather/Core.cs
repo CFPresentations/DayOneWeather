@@ -12,7 +12,7 @@ namespace DayOneWeather
         {
             //Sign up for a free API key at http://openweathermap.org/appid
 
-            string key = "04353945cd3d07ec9df557e0e1b78617";
+            string key = "";
             string queryString = "http://api.openweathermap.org/data/2.5/weather?zip=" + zipCode + ",us&appid=" + key + "&units=imperial";
             dynamic results = await DataService.getDataFromService(queryString).ConfigureAwait(false);
 
